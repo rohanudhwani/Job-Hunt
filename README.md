@@ -1,6 +1,6 @@
 # Job Hunt App Readme
 
-![](https://github.com/rohanudhwani/Job-Hunt/blob/main/assets/icon.png)
+![](/assets/icon.png)
 
 ## Overview
 Welcome to the Job Hunt App, a React Native application designed to help users search and explore job opportunities conveniently. This app is powered by the JSearch API, which provides access to a wide range of job listings, allowing users to find employment that matches their criteria. Whether you're looking for full-time, part-time, or contractor positions, this app has you covered.
