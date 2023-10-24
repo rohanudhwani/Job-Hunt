@@ -8,12 +8,12 @@ Welcome to the Job Hunt App, a React Native application designed to help users s
 ## Screenshots and Gifs
 As a learning project, this app comes with screenshots and gifs that showcase its features and functionality. You can view them in the `/screenshots` and `/gifs` directories within this repository.
 
-![Main Activity Screenshot](/screenshots/Main Activity.png)
-![Part-time Activity Screenshot](/screenshots/Part-time Activity.png)
-![Job Activity Screenshot](/screenshots/Job Activity.png)
+![Main Activity Screenshot](/screenshots/Main%20Activity.png)
+![Part-time Activity Screenshot](/screenshots/Part-time%20Activity.png)
+![Job Activity Screenshot](/screenshots/Job%20Activity.png)
 
-![Main Scroll GIF](/gifs/main scroll.gif)
-![Search Scroll GIF](/gifs/search scroll.gif)
+![Main Scroll GIF](/gifs/main%20scroll.gif)
+![Search Scroll GIF](/gifs/search%20scroll.gif)
 
 ## Features
 ### 1. Job Search
