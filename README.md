@@ -14,12 +14,11 @@ As a learning project, this app comes with screenshots and gifs that showcase it
 <img src="/screenshots/Job%20activity.jpg" alt="drawing" width="250"/>
 </p>
 
-![Main Activity Screenshot](/screenshots/Main%20activity.jpg)
-![Part-time Activity Screenshot](/screenshots/Part-time%20activity.jpg)
-![Job Activity Screenshot](/screenshots/Job%20activity.jpg)
+<p float="left">
+<img src="/gifs/main%20scroll.gif" alt="drawing" width="250"/>
+<img src="/gifs/search%20scroll.gif" alt="drawing" width="250"/>
+</p>
 
-![Main Scroll GIF](/gifs/main%20scroll.gif)
-![Search Scroll GIF](/gifs/search%20scroll.gif)
 
 ## Features
 ### 1. Job Search
