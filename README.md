@@ -46,7 +46,7 @@ The app supports both seamless and light themes to provide a clean and customiza
 You can build this app for iOS using React Native tools. Make sure you have the necessary dependencies installed, and follow the instructions in the project's documentation to build it for iOS.
 
 ## Download the APK
-If you're using an Android device, you can download the APK for this app from the following link: [Download APK](#)
+If you're using an Android device, you can download the APK for this app from the following link: [Download APK](/Job%20Hunt.apk)
 
 ## Contribution
 This project is open to contributions and improvements. If you have ideas to enhance the app, please feel free to submit a pull request.
