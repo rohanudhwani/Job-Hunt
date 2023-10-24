@@ -1,6 +1,5 @@
 # Job Hunt App Readme
 
-![](./assets/icon.png =100x20)
 <img src="/assets/icon.png" alt="drawing" width="200"/>
 
 ## Overview
