@@ -5,7 +5,7 @@
       "bundler": "metro"
     },
     "name": "Job Hunt",
-    "slug": "Job-Hunt",
+    "slug": "react_native_jobs",
     "icon": "./assets/icon.png",
     "extra": {
       "eas": {
